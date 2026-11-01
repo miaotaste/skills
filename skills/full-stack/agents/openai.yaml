@@ -1,0 +1,4 @@
+interface:
+  display_name: "Full Stack"
+  short_description: "复用个人全栈实践，按项目需求完成技术选型、架构设计、开发验证与部署准备"
+  default_prompt: "用 $full-stack 结合当前项目需求与已有约束，采用适合的全栈方案，完成本次需要的搭建、验证和部署准备。"
