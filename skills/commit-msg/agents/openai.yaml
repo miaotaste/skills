@@ -1,0 +1,7 @@
+interface:
+  display_name: "Commit Msg"
+  short_description: "仅根据 Git 暂存区生成提交信息，包含类型对应的 emoji、标题与变更要点"
+  default_prompt: "使用 $commit-msg 检查当前 Git 暂存区的变更，生成包含类型对应的 emoji、业务或技术 scope、Conventional Commit 标题和清晰变更要点的提交信息。"
+
+policy:
+  allow_implicit_invocation: true

@@ -1,0 +1,7 @@
+interface:
+  display_name: "技术插图"
+  short_description: "使用 Excalidraw 绘制清晰的手绘风技术插图，交付展示图与可编辑源文件"
+  default_prompt: "用 $illustration 绘制这段说明的技术插图，检查角色、边界与箭头，并交付展示图和可编辑源文件。"
+
+policy:
+  allow_implicit_invocation: true
